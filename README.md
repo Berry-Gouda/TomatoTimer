@@ -1,2 +1,2 @@
 # TomatoTimer
-Simple timer following the Pomodoro methode
+Simple timer following the Pomodoro method
